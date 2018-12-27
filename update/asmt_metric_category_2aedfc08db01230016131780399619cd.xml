@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="asmt_metric_category">
+    <asmt_metric_category action="INSERT_OR_UPDATE">
+        <create_stakeholders>false</create_stakeholders>
+        <description/>
+        <details/>
+        <filter table="asmt_metric_type">sys_id=a2edfc08db01230016131780399619c4^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="=" or="false" value="a2edfc08db01230016131780399619c4"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <metric_type display_value="New Quiz">a2edfc08db01230016131780399619c4</metric_type>
+        <name>New Quiz</name>
+        <order>100</order>
+        <roles/>
+        <scoring_type>percent</scoring_type>
+        <sys_class_name>asmt_metric_category</sys_class_name>
+        <sys_created_by>mcaggiano@live.com</sys_created_by>
+        <sys_created_on>2018-10-04 16:09:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2aedfc08db01230016131780399619cd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>New Quiz</sys_name>
+        <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+        <sys_update_name>asmt_metric_category_2aedfc08db01230016131780399619cd</sys_update_name>
+        <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+        <sys_updated_on>2018-10-04 16:09:27</sys_updated_on>
+        <table>asmt_metric_type</table>
+        <total_metrics>1</total_metrics>
+        <weight>10</weight>
+    </asmt_metric_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=2aedfc08db01230016131780399619cd"/>
+</record_update>

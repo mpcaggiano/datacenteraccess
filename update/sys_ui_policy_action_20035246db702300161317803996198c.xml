@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>short_description</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>mcaggiano@live.com</sys_created_by>
+        <sys_created_on>2018-09-28 17:13:32</sys_created_on>
+        <sys_id>20035246db702300161317803996198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>short_description</sys_name>
+        <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+        <sys_update_name>sys_ui_policy_action_20035246db702300161317803996198c</sys_update_name>
+        <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+        <sys_updated_on>2018-09-28 17:13:32</sys_updated_on>
+        <table>x_195030_datacente_datacenter_access_table</table>
+        <ui_policy display_value="Awaiting approval read only">cd519ac2db702300161317803996193b</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">a898434bdb516300161317803996197e</sp_column>
+        <sp_widget display_value="Data Center Access Status">a898470bdb51630016131780399619e5</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>mcaggiano@live.com</sys_created_by>
+        <sys_created_on>2018-10-26 20:12:43</sys_created_on>
+        <sys_id>6898434bdb5163001613178039961980</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+        <sys_update_name>sp_instance_6898434bdb5163001613178039961980</sys_update_name>
+        <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+        <sys_updated_on>2018-10-26 20:12:43</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=6898434bdb5163001613178039961980"/>
+</record_update>

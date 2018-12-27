@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA New Tab">55d2956bdb0123001613178039961969</canvas_page>
+        <name>New Tab</name>
+        <page display_value="PA New Tab">d5d2956bdb0123001613178039961968</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>mcaggiano@live.com</sys_created_by>
+        <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>51d255abdb01230016131780399619d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+        <sys_update_name>pa_tabs_51d255abdb01230016131780399619d2</sys_update_name>
+        <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+        <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+    </pa_tabs>
+</record_update>

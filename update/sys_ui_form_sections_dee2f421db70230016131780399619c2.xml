@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="dee2f421db70230016131780399619c2" sys_domain="global" table="x_195030_datacente_datacenter_access_table" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>mcaggiano@live.com</sys_created_by>
+            <sys_created_on>2018-10-26 19:14:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>052b368fdb11630016131780399619f6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_195030_datacente_datacenter_access_table" name="x_195030_datacente_datacenter_access_table" sys_domain="global" view="Default view">dee2f421db70230016131780399619c2</sys_ui_form>
+            <sys_ui_section caption="Data Center Access Request" display_value="Data Center Access Request" name="x_195030_datacente_datacenter_access_table" sys_domain="global" view="Default view">492b368fdb11630016131780399619f4</sys_ui_section>
+            <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+            <sys_updated_on>2018-10-26 19:18:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_195030_datacente_datacenter_access_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>mcaggiano@live.com</sys_created_by>
+            <sys_created_on>2018-09-26 20:56:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dee2f421db70230016131780399619c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_195030_datacente_datacenter_access_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+            <sys_update_name>sys_ui_form_sections_dee2f421db70230016131780399619c2</sys_update_name>
+            <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+            <sys_updated_on>2018-09-26 20:56:33</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="short_description" label="Access Request" language="en" table="x_195030_datacente_datacenter_access_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <help/>
+            <hint/>
+            <label>Access Request</label>
+            <language>en</language>
+            <name>x_195030_datacente_datacenter_access_table</name>
+            <plural>Access Request</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>mcaggiano@live.com</sys_created_by>
+            <sys_created_on>2018-09-07 02:37:17</sys_created_on>
+            <sys_id>13010b8bdb1023001613178039961989</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Access Request</sys_name>
+            <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+            <sys_update_name>sys_documentation_x_195030_datacente_datacenter_access_table_short_description_en</sys_update_name>
+            <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+            <sys_updated_on>2018-10-02 11:34:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>dc_approval</internal_name>
+        <label_cache>[{"name":"{{static.1ebe2fa9db33130016131780399619cd}}","label":"Email Approval Group","reference":"sys_user_group","type":"reference","base_type":"reference"},{"name":"Updated_1.current","label":"Trigger➛DataCenter Access Table Record","reference":"x_195030_datacente_datacenter_access_table","reference_display":"DataCenter Access Table","type":"reference","base_type":"reference"},{"name":"{{static.b85d44954a3623120004689b2d5dd60a}}","label":"CAB Approval","reference":"sys_user_group","type":"reference","base_type":"reference"}]</label_cache>
+        <master>false</master>
+        <name>dc approval</name>
+        <outputs/>
+        <parent_flow/>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>mcaggiano@live.com</sys_created_by>
+        <sys_created_on>2018-09-07 03:14:15</sys_created_on>
+        <sys_id>cc99c703db50230016131780399619ac</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>dc approval</sys_name>
+        <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_cc99c703db50230016131780399619ac</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-09-14 21:11:43</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow_snapshot>
+    <sys_variable_value action="delete_multiple" query="document_key=cc99c703db50230016131780399619ac"/>
+</record_update>

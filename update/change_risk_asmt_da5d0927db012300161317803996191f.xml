@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="change_risk_asmt">
+    <change_risk_asmt action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <allow_public>false</allow_public>
+        <allow_retake>false</allow_retake>
+        <anonymize>false</anonymize>
+        <business_rule/>
+        <condition/>
+        <default_filter/>
+        <delete_business_rule/>
+        <description/>
+        <disable_ui_action/>
+        <display_all_filters>false</display_all_filters>
+        <display_field/>
+        <duration>1970-01-15 00:00:00</duration>
+        <enable_ui_action/>
+        <end_note/>
+        <enforce_condition>false</enforce_condition>
+        <evaluation_method>assessment</evaluation_method>
+        <filter_condition/>
+        <filter_table/>
+        <introduction/>
+        <job/>
+        <live_feed>false</live_feed>
+        <name>New Assessment</name>
+        <notify_if_overdue>false</notify_if_overdue>
+        <notify_user>true</notify_user>
+        <one_click_survey>false</one_click_survey>
+        <overdue_notify_user/>
+        <portal_pagination>category</portal_pagination>
+        <publish_state>draft</publish_state>
+        <roles/>
+        <sample_metric/>
+        <scale_factor/>
+        <schedule_period>0</schedule_period>
+        <schedule_type>on_demand</schedule_type>
+        <scoring_type>percent</scoring_type>
+        <signature/>
+        <source_table/>
+        <sys_class_name>change_risk_asmt</sys_class_name>
+        <sys_created_by>mcaggiano@live.com</sys_created_by>
+        <sys_created_on>2018-10-15 14:15:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>da5d0927db012300161317803996191f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Assessment</sys_name>
+        <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+        <sys_update_name>change_risk_asmt_da5d0927db012300161317803996191f</sys_update_name>
+        <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+        <sys_updated_on>2018-10-15 14:15:37</sys_updated_on>
+        <table>change_request</table>
+        <url/>
+    </change_risk_asmt>
+    <sys_translated_text action="delete_multiple" query="documentkey=da5d0927db012300161317803996191f"/>
+</record_update>

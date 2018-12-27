@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>false</active>
+        <annotation/>
+        <category/>
+        <copied_from>80414950db2023001613178039961945</copied_from>
+        <copied_from_name>DC Access</copied_from_name>
+        <description>Datacenter Access flow</description>
+        <internal_name>copy_of_dc_access</internal_name>
+        <label_cache>[{"name":"{{static.22122b37c611228400f9ff91c857581d}}","label":"Catalog Request Approvers for Sales","reference":"sys_user_group","reference_display":"Group","type":"reference","base_type":"reference"},{"name":"3732c10a-f119-417a-9a2b-9d05fe1b70e0.table_name","label":"2➛DataCenter Access Table","reference":"x_195030_datacente_datacenter_access_table","reference_display":"DataCenter Access","type":"table_name","base_type":"table_name"},{"name":"3732c10a-f119-417a-9a2b-9d05fe1b70e0.record","label":"2➛DataCenter Access Record","reference":"x_195030_datacente_datacenter_access_table","reference_display":"DataCenter Access","type":"reference","base_type":"reference"},{"name":"45eb1129-11ac-40c8-b948-8168b8a16b1e.approval_state","label":"1➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice"},{"name":"Updated_1.current","label":"Trigger➛DataCenter Access Table Record","reference":"x_195030_datacente_datacenter_access_table","reference_display":"DataCenter Access","type":"reference","base_type":"reference"},{"name":"{{static.b85d44954a3623120004689b2d5dd60a}}","label":"CAB Approval","reference":"sys_user_group","reference_display":"Group","type":"reference","base_type":"reference"},{"name":"e033fded-2c19-497b-9d33-a048f92d67c2.record","label":"2.1➛DataCenter Access Record","reference":"x_195030_datacente_datacenter_access_table","reference_display":"DataCenter Access","type":"reference","base_type":"reference"},{"name":"e033fded-2c19-497b-9d33-a048f92d67c2.table_name","label":"2.1➛DataCenter Access Table","reference":"x_195030_datacente_datacenter_access_table","reference_display":"DataCenter Access","type":"table_name","base_type":"table_name"},{"name":"e2dfdda8-6d7e-4620-8929-5f16f9950d17.record","label":"3.1➛DataCenter Access Record","reference":"x_195030_datacente_datacenter_access_table","reference_display":"DataCenter Access","type":"reference","base_type":"reference"},{"name":"e2dfdda8-6d7e-4620-8929-5f16f9950d17.table_name","label":"3.1➛DataCenter Access Table","reference":"x_195030_datacente_datacenter_access_table","reference_display":"DataCenter Access","type":"table_name","base_type":"table_name"},{"name":"{{static.8daf5b05db3313001613178039961938}}","label":"Michael Caggiano","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"},{"name":"Updated_1.current.opened_by","label":"Trigger➛DataCenter Access Table Record➛Opened by","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"x_195030_datacente_datacenter_access_table","column_name":"opened_by"},{"name":"Updated_1.current.location.contact","label":"Trigger➛DataCenter Access Table Record➛Data Center➛Contact","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"cmn_location","column_name":"contact"}]</label_cache>
+        <latest_snapshot>d23b6bdcdb2523001613178039961907</latest_snapshot>
+        <master_snapshot>d23b6bdcdb2523001613178039961907</master_snapshot>
+        <name>Copy of DC Access</name>
+        <outputs/>
+        <remote_trigger_id>2e3b6bdcdb25230016131780399619ae</remote_trigger_id>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>mcaggiano@live.com</sys_created_by>
+        <sys_created_on>2018-10-24 15:30:09</sys_created_on>
+        <sys_id>f1b43bd2db51230016131780399619bb</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Copy of DC Access</sys_name>
+        <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+        <sys_update_name>sys_hub_flow_f1b43bd2db51230016131780399619bb</sys_update_name>
+        <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+        <sys_updated_on>2018-10-30 20:56:11</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_variable_value action="delete_multiple" query="document_key=f1b43bd2db51230016131780399619bb"/>
+</record_update>

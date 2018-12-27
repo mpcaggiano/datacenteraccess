@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="cab_agenda_item" version="2" view="RPTeded0f98dbe1230016131780399619b9">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="cab_agenda_item" element="NULL" name="cab_agenda_item" parent="NULL" relationship="NULL" sys_domain="global" view="6ded8f98dbe12300161317803996197d">d9fdcf98dbe123001613178039961963</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>mcaggiano@live.com</sys_created_by>
+            <sys_created_on>2018-10-30 17:48:39</sys_created_on>
+            <sys_id>15fdcf98dbe123001613178039961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+            <sys_updated_on>2018-10-30 17:48:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="cab_agenda_item" element="NULL" name="cab_agenda_item" parent="NULL" relationship="NULL" sys_domain="global" view="6ded8f98dbe12300161317803996197d">d9fdcf98dbe123001613178039961963</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>mcaggiano@live.com</sys_created_by>
+            <sys_created_on>2018-10-30 17:48:39</sys_created_on>
+            <sys_id>95fdcf98dbe123001613178039961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+            <sys_updated_on>2018-10-30 17:48:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_by</element>
+            <list_id display_value="cab_agenda_item" element="NULL" name="cab_agenda_item" parent="NULL" relationship="NULL" sys_domain="global" view="6ded8f98dbe12300161317803996197d">d9fdcf98dbe123001613178039961963</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>mcaggiano@live.com</sys_created_by>
+            <sys_created_on>2018-10-30 17:48:39</sys_created_on>
+            <sys_id>19fdcf98dbe123001613178039961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+            <sys_updated_on>2018-10-30 17:48:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_by</element>
+            <list_id display_value="cab_agenda_item" element="NULL" name="cab_agenda_item" parent="NULL" relationship="NULL" sys_domain="global" view="6ded8f98dbe12300161317803996197d">d9fdcf98dbe123001613178039961963</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>mcaggiano@live.com</sys_created_by>
+            <sys_created_on>2018-10-30 17:48:39</sys_created_on>
+            <sys_id>99fdcf98dbe123001613178039961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+            <sys_updated_on>2018-10-30 17:48:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="cab_agenda_item" element="NULL" name="cab_agenda_item" parent="NULL" relationship="NULL" sys_domain="global" view="6ded8f98dbe12300161317803996197d">d9fdcf98dbe123001613178039961963</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>mcaggiano@live.com</sys_created_by>
+            <sys_created_on>2018-10-30 17:48:39</sys_created_on>
+            <sys_id>1dfdcf98dbe123001613178039961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+            <sys_updated_on>2018-10-30 17:48:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>work_notes</element>
+            <list_id display_value="cab_agenda_item" element="NULL" name="cab_agenda_item" parent="NULL" relationship="NULL" sys_domain="global" view="6ded8f98dbe12300161317803996197d">d9fdcf98dbe123001613178039961963</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>mcaggiano@live.com</sys_created_by>
+            <sys_created_on>2018-10-30 17:48:39</sys_created_on>
+            <sys_id>9dfdcf98dbe123001613178039961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+            <sys_updated_on>2018-10-30 17:48:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>cab_agenda_item</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>mcaggiano@live.com</sys_created_by>
+            <sys_created_on>2018-10-30 17:48:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d9fdcf98dbe123001613178039961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cab_agenda_item</sys_name>
+            <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+            <sys_update_name>sys_ui_list_cab_agenda_item_RPTeded0f98dbe1230016131780399619b9</sys_update_name>
+            <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+            <sys_updated_on>2018-10-30 17:48:39</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpteded0f98dbe1230016131780399619b9" name="RPTeded0f98dbe1230016131780399619b9">6ded8f98dbe12300161317803996197d</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

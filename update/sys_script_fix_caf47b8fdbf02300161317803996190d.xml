@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_fix">
+    <sys_script_fix action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <before>false</before>
+        <description>dc access test </description>
+        <flush_cache>false</flush_cache>
+        <name>dc access test </name>
+        <record_for_rollback>false</record_for_rollback>
+        <run_once>true</run_once>
+        <script><![CDATA[gs.info ('Were Starting Now ');
+var dcaccess = new GlideRecord ('x_195030_datacente_datacenter_access_table');
+var userRec = new GlideRecord ('sys_user');
+var locRec = new GlideRecord ('cmn_location'); 
+dcaccess.query ();
+while (dcaccess.next ()) {
+	userRec.addQuery('sys_id',dcaccess.opened_by);
+	userRec.query();
+	while (userRec.next ()){
+		var locRec = new GlideRecord ('cmn_location');
+		locRec.addQuery('sys_id',dcaccess.location);
+		locRec.query ();
+		while (locRec.next ()){
+			gs.info (userRec.name +' Requesting Access to '+ locRec.name + ' datacenter at ' + dcaccess.u_glide_date_time_1);
+		} 
+	}
+}
+gs.info ('Were done');]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>mcaggiano@live.com</sys_created_by>
+        <sys_created_on>2018-10-02 02:57:13</sys_created_on>
+        <sys_id>caf47b8fdbf02300161317803996190d</sys_id>
+        <sys_mod_count>39</sys_mod_count>
+        <sys_name>dc access test </sys_name>
+        <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+        <sys_update_name>sys_script_fix_caf47b8fdbf02300161317803996190d</sys_update_name>
+        <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+        <sys_updated_on>2018-10-02 13:59:17</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+</record_update>

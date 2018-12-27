@@ -1,0 +1,2333 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_grid_canvas" unload_date="2018-12-27 19:58:55">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA New Tab">d5d2956bdb0123001613178039961968</legacy_page>
+        <name>PA New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>mcaggiano@live.com</sys_created_by>
+        <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+        <sys_id>55d2956bdb0123001613178039961969</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+        <sys_update_name>sys_grid_canvas_55d2956bdb0123001613178039961969</sys_update_name>
+        <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+        <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+        <related_items_node>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">55d2956bdb0123001613178039961969</grid_canvas>
+                <height>3</height>
+                <portal_widget display_value="Created 2018-10-15 10:39:35 AM">15d255abdb01230016131780399619e6</portal_widget>
+                <posx>4</posx>
+                <posy>6</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                <sys_id>25d255abdb01230016131780399619ff</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>55d2956bdb0123001613178039961969</sys_name>
+                <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_25d255abdb01230016131780399619ff</sys_update_name>
+                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                <width>4</width>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone>dropzone2</dropzone>
+                        <offset>0</offset>
+                        <page display_value="PA New Tab">d5d2956bdb0123001613178039961968</page>
+                        <summary/>
+                        <sys_created_by>mcaggiano@live.com</sys_created_by>
+                        <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                        <sys_id>15d255abdb01230016131780399619e6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                        <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">55d2956bdb0123001613178039961969</grid_canvas>
+                                <height>3</height>
+                                <portal_widget display_value="Created 2018-10-15 10:39:35 AM">15d255abdb01230016131780399619e6</portal_widget>
+                                <posx>4</posx>
+                                <posy>6</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>25d255abdb01230016131780399619ff</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_name>55d2956bdb0123001613178039961969</sys_name>
+                                <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_25d255abdb01230016131780399619ff</sys_update_name>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <width>4</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>widget_height</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">15d255abdb01230016131780399619e6</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>11d255abdb01230016131780399619e7</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value/>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_size</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">15d255abdb01230016131780399619e6</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>1dd255abdb01230016131780399619e7</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>12pt</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">15d255abdb01230016131780399619e6</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>59d255abdb01230016131780399619e7</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>Critical Changes Open</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>subscriber_widget</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">15d255abdb01230016131780399619e6</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>5dd255abdb01230016131780399619e6</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">15d255abdb01230016131780399619e6</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>91d255abdb01230016131780399619e8</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:38</sys_updated_on>
+                                <value>3a3fcb16ff0302001e68ffffffffffc9</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">15d255abdb01230016131780399619e6</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>95d255abdb01230016131780399619e7</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:38</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">15d255abdb01230016131780399619e6</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>99d255abdb01230016131780399619e6</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>publisher_widget</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">15d255abdb01230016131780399619e6</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d1d255abdb01230016131780399619e7</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value/>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_align</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">15d255abdb01230016131780399619e6</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d5d255abdb01230016131780399619e6</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>center</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_border</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">15d255abdb01230016131780399619e6</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d5d255abdb01230016131780399619e8</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_title</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">15d255abdb01230016131780399619e6</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>ddd255abdb01230016131780399619e7</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone>dropzone1</dropzone>
+                        <offset>0</offset>
+                        <page display_value="PA New Tab">d5d2956bdb0123001613178039961968</page>
+                        <summary/>
+                        <sys_created_by>mcaggiano@live.com</sys_created_by>
+                        <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                        <sys_id>5dd255abdb01230016131780399619eb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                        <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">55d2956bdb0123001613178039961969</grid_canvas>
+                                <height>3</height>
+                                <portal_widget display_value="Created 2018-10-15 10:39:35 AM">5dd255abdb01230016131780399619eb</portal_widget>
+                                <posx>0</posx>
+                                <posy>0</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>2dd255abdb01230016131780399619fb</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_name>55d2956bdb0123001613178039961969</sys_name>
+                                <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_2dd255abdb01230016131780399619fb</sys_update_name>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <width>4</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_border</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">5dd255abdb01230016131780399619eb</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>11d255abdb01230016131780399619ec</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">5dd255abdb01230016131780399619eb</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>11d255abdb01230016131780399619ee</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:38</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>current_page</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">5dd255abdb01230016131780399619eb</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>19d255abdb01230016131780399619ed</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>099d0b16ff0302001e68ffffffffffb3</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>help_text_window</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">5dd255abdb01230016131780399619eb</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>1dd255abdb01230016131780399619ec</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>gauge_widget_description</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">5dd255abdb01230016131780399619eb</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>55d255abdb01230016131780399619ed</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_align</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">5dd255abdb01230016131780399619eb</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>59d255abdb01230016131780399619ec</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>center</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>widget_height</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">5dd255abdb01230016131780399619eb</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>59d255abdb01230016131780399619ee</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value/>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_title</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">5dd255abdb01230016131780399619eb</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>91d255abdb01230016131780399619ed</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">5dd255abdb01230016131780399619eb</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>95d255abdb01230016131780399619ec</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>Today's Emergency Changes</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_size</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">5dd255abdb01230016131780399619eb</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>95d255abdb01230016131780399619ee</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>12pt</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>publisher_widget</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">5dd255abdb01230016131780399619eb</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d1d255abdb01230016131780399619ec</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value/>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>subscriber_widget</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">5dd255abdb01230016131780399619eb</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d1d255abdb01230016131780399619ee</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">5dd255abdb01230016131780399619eb</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d9d255abdb01230016131780399619ed</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:38</sys_updated_on>
+                                <value>989b1937eb2302001e68286b1206fe76</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>filter_indicator</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">5dd255abdb01230016131780399619eb</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>ddd255abdb01230016131780399619ec</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone>dropzone4</dropzone>
+                        <offset>2</offset>
+                        <page display_value="PA New Tab">d5d2956bdb0123001613178039961968</page>
+                        <summary/>
+                        <sys_created_by>mcaggiano@live.com</sys_created_by>
+                        <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                        <sys_id>d1d255abdb01230016131780399619e3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                        <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">55d2956bdb0123001613178039961969</grid_canvas>
+                                <height>17</height>
+                                <portal_widget display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619e3</portal_widget>
+                                <posx>0</posx>
+                                <posy>72</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:36</sys_created_on>
+                                <sys_id>2dd295abdb0123001613178039961920</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_name>55d2956bdb0123001613178039961969</sys_name>
+                                <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_2dd295abdb0123001613178039961920</sys_update_name>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:36</sys_updated_on>
+                                <width>6</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_title</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619e3</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>11d255abdb01230016131780399619e5</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619e3</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>1dd255abdb01230016131780399619e3</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>filter_indicator</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619e3</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>1dd255abdb01230016131780399619e5</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>widget_height</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619e3</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>59d255abdb01230016131780399619e3</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>500</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>help_text_window</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619e3</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>59d255abdb01230016131780399619e5</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>gauge_widget_description</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_border</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619e3</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>5dd255abdb01230016131780399619e4</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619e3</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>91d255abdb01230016131780399619e4</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:45</sys_updated_on>
+                                <value>c1132977eb2302001e68286b1206fe76</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_size</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619e3</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>95d255abdb01230016131780399619e3</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>12pt</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619e3</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>95d255abdb01230016131780399619e5</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:45</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>subscriber_widget</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619e3</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>99d255abdb01230016131780399619e4</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619e3</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d1d255abdb01230016131780399619e5</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>Changes Opened per Month by Type</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_align</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619e3</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d5d255abdb01230016131780399619e4</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>left</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>current_page</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619e3</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>ddd255abdb01230016131780399619e3</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>099d0b16ff0302001e68ffffffffffb3</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>publisher_widget</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619e3</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>ddd255abdb01230016131780399619e5</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value/>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone>dropzone5</dropzone>
+                        <offset>2</offset>
+                        <page display_value="PA New Tab">d5d2956bdb0123001613178039961968</page>
+                        <summary/>
+                        <sys_created_by>mcaggiano@live.com</sys_created_by>
+                        <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                        <sys_id>95d255abdb01230016131780399619f1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                        <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">55d2956bdb0123001613178039961969</grid_canvas>
+                                <height>17</height>
+                                <portal_widget display_value="Created 2018-10-15 10:39:35 AM">95d255abdb01230016131780399619f1</portal_widget>
+                                <posx>6</posx>
+                                <posy>123</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:36</sys_created_on>
+                                <sys_id>61d295abdb0123001613178039961925</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_name>55d2956bdb0123001613178039961969</sys_name>
+                                <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_61d295abdb0123001613178039961925</sys_update_name>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:36</sys_updated_on>
+                                <width>6</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">95d255abdb01230016131780399619f1</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>15d255abdb01230016131780399619f3</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:53</sys_updated_on>
+                                <value>54a42d77eb2302001e68286b1206feff</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>filter_indicator</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">95d255abdb01230016131780399619f1</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>19d255abdb01230016131780399619f2</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>widget_height</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">95d255abdb01230016131780399619f1</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>1dd255abdb01230016131780399619f1</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>500</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>subscriber_widget</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">95d255abdb01230016131780399619f1</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>1dd255abdb01230016131780399619f3</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>current_page</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">95d255abdb01230016131780399619f1</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>51d255abdb01230016131780399619f3</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>099d0b16ff0302001e68ffffffffffb3</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>help_text_window</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">95d255abdb01230016131780399619f1</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>55d255abdb01230016131780399619f2</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>gauge_widget_description</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_border</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">95d255abdb01230016131780399619f1</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>59d255abdb01230016131780399619f1</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_align</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">95d255abdb01230016131780399619f1</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>59d255abdb01230016131780399619f3</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>left</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">95d255abdb01230016131780399619f1</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>91d255abdb01230016131780399619f2</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:53</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>publisher_widget</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">95d255abdb01230016131780399619f1</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>91d255abdb01230016131780399619f4</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value/>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">95d255abdb01230016131780399619f1</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>9dd255abdb01230016131780399619f2</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_title</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">95d255abdb01230016131780399619f1</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d9d255abdb01230016131780399619f2</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">95d255abdb01230016131780399619f1</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>ddd255abdb01230016131780399619f1</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>Closed Changes per Month</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_size</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">95d255abdb01230016131780399619f1</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>ddd255abdb01230016131780399619f3</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>12pt</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone>dropzone4</dropzone>
+                        <offset>1</offset>
+                        <page display_value="PA New Tab">d5d2956bdb0123001613178039961968</page>
+                        <summary/>
+                        <sys_created_by>mcaggiano@live.com</sys_created_by>
+                        <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                        <sys_id>55d255abdb01230016131780399619d8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                        <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">55d2956bdb0123001613178039961969</grid_canvas>
+                                <height>17</height>
+                                <portal_widget display_value="Created 2018-10-15 10:39:35 AM">55d255abdb01230016131780399619d8</portal_widget>
+                                <posx>0</posx>
+                                <posy>55</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:36</sys_created_on>
+                                <sys_id>65d295abdb012300161317803996191f</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_name>55d2956bdb0123001613178039961969</sys_name>
+                                <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_65d295abdb012300161317803996191f</sys_update_name>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:36</sys_updated_on>
+                                <width>6</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">55d255abdb01230016131780399619d8</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>15d255abdb01230016131780399619d9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_title</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">55d255abdb01230016131780399619d8</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>19d255abdb01230016131780399619d8</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">55d255abdb01230016131780399619d8</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>19d255abdb01230016131780399619da</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>Open Changes by Risk and Priority</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_align</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">55d255abdb01230016131780399619d8</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>51d255abdb01230016131780399619d9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>left</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">55d255abdb01230016131780399619d8</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>55d255abdb01230016131780399619da</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:45</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">55d255abdb01230016131780399619d8</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>5dd255abdb01230016131780399619d9</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:45</sys_updated_on>
+                                <value>487fa7d6ff0302001e68fffffffffff4</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_border</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">55d255abdb01230016131780399619d8</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>91d255abdb01230016131780399619da</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>publisher_widget</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">55d255abdb01230016131780399619d8</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>99d255abdb01230016131780399619d9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value/>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>widget_height</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">55d255abdb01230016131780399619d8</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>9dd255abdb01230016131780399619da</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>500</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>subscriber_widget</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">55d255abdb01230016131780399619d8</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d5d255abdb01230016131780399619d9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_size</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">55d255abdb01230016131780399619d8</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d9d255abdb01230016131780399619da</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>12pt</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone>dropzone1</dropzone>
+                        <offset>1</offset>
+                        <page display_value="PA New Tab">d5d2956bdb0123001613178039961968</page>
+                        <summary/>
+                        <sys_created_by>mcaggiano@live.com</sys_created_by>
+                        <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                        <sys_id>d9d255abdb01230016131780399619db</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                        <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">55d2956bdb0123001613178039961969</grid_canvas>
+                                <height>3</height>
+                                <portal_widget display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619db</portal_widget>
+                                <posx>0</posx>
+                                <posy>3</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>6dd255abdb01230016131780399619fd</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_name>55d2956bdb0123001613178039961969</sys_name>
+                                <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_6dd255abdb01230016131780399619fd</sys_update_name>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <width>4</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619db</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>11d255abdb01230016131780399619dd</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:38</sys_updated_on>
+                                <value>b0931756ff0302001e68ffffffffffdf</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_align</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619db</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>15d255abdb01230016131780399619dc</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>center</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619db</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>19d255abdb01230016131780399619dd</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:38</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_title</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619db</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>51d255abdb01230016131780399619dc</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_border</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619db</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>55d255abdb01230016131780399619dd</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>widget_height</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619db</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>5dd255abdb01230016131780399619dc</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value/>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>subscriber_widget</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619db</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>99d255abdb01230016131780399619dc</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>publisher_widget</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619db</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>9dd255abdb01230016131780399619db</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value/>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_size</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619db</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>9dd255abdb01230016131780399619dd</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>12pt</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619db</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d5d255abdb01230016131780399619dc</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619db</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d9d255abdb01230016131780399619dd</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>Today's High Risk Changes</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone>dropzone3</dropzone>
+                        <offset>0</offset>
+                        <page display_value="PA New Tab">d5d2956bdb0123001613178039961968</page>
+                        <summary/>
+                        <sys_created_by>mcaggiano@live.com</sys_created_by>
+                        <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                        <sys_id>1dd255abdb01230016131780399619e8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                        <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">55d2956bdb0123001613178039961969</grid_canvas>
+                                <height>3</height>
+                                <portal_widget display_value="Created 2018-10-15 10:39:35 AM">1dd255abdb01230016131780399619e8</portal_widget>
+                                <posx>8</posx>
+                                <posy>12</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>a1d295abdb0123001613178039961902</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_name>55d2956bdb0123001613178039961969</sys_name>
+                                <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_a1d295abdb0123001613178039961902</sys_update_name>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <width>4</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>widget_height</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">1dd255abdb01230016131780399619e8</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>19d255abdb01230016131780399619e9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value/>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>help_text_window</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">1dd255abdb01230016131780399619e8</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>19d255abdb01230016131780399619eb</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>gauge_widget_description</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_border</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">1dd255abdb01230016131780399619e8</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>1dd255abdb01230016131780399619ea</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">1dd255abdb01230016131780399619e8</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>51d255abdb01230016131780399619ea</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:38</sys_updated_on>
+                                <value>336d9d37eb2302001e68286b1206fecf</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_size</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">1dd255abdb01230016131780399619e8</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>55d255abdb01230016131780399619e9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>12pt</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">1dd255abdb01230016131780399619e8</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>55d255abdb01230016131780399619eb</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:38</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>publisher_widget</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">1dd255abdb01230016131780399619e8</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>59d255abdb01230016131780399619ea</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value/>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>subscriber_widget</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">1dd255abdb01230016131780399619e8</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>91d255abdb01230016131780399619e9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">1dd255abdb01230016131780399619e8</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>91d255abdb01230016131780399619eb</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>Overdue  Changes</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>filter_indicator</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">1dd255abdb01230016131780399619e8</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>95d255abdb01230016131780399619ea</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>current_page</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">1dd255abdb01230016131780399619e8</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>9dd255abdb01230016131780399619e9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>099d0b16ff0302001e68ffffffffffb3</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">1dd255abdb01230016131780399619e8</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d9d255abdb01230016131780399619e9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_align</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">1dd255abdb01230016131780399619e8</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>ddd255abdb01230016131780399619e8</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>center</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_title</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">1dd255abdb01230016131780399619e8</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>ddd255abdb01230016131780399619ea</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone>dropzone5</dropzone>
+                        <offset>1</offset>
+                        <page display_value="PA New Tab">d5d2956bdb0123001613178039961968</page>
+                        <summary/>
+                        <sys_created_by>mcaggiano@live.com</sys_created_by>
+                        <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                        <sys_id>19d255abdb01230016131780399619f7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                        <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">55d2956bdb0123001613178039961969</grid_canvas>
+                                <height>17</height>
+                                <portal_widget display_value="Created 2018-10-15 10:39:35 AM">19d255abdb01230016131780399619f7</portal_widget>
+                                <posx>6</posx>
+                                <posy>106</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:36</sys_created_on>
+                                <sys_id>a9d295abdb0123001613178039961923</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_name>55d2956bdb0123001613178039961969</sys_name>
+                                <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_a9d295abdb0123001613178039961923</sys_update_name>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:36</sys_updated_on>
+                                <width>6</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_border</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">19d255abdb01230016131780399619f7</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>11d255abdb01230016131780399619f8</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>publisher_widget</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">19d255abdb01230016131780399619f7</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>19d255abdb01230016131780399619f9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value/>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>widget_height</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">19d255abdb01230016131780399619f7</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>1dd255abdb01230016131780399619f8</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>500</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>subscriber_widget</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">19d255abdb01230016131780399619f7</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>55d255abdb01230016131780399619f9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_size</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">19d255abdb01230016131780399619f7</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>59d255abdb01230016131780399619f8</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>12pt</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">19d255abdb01230016131780399619f7</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>91d255abdb01230016131780399619f9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">19d255abdb01230016131780399619f7</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>95d255abdb01230016131780399619f8</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>Upcoming Changes (30 days) by Risk and Priority</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">19d255abdb01230016131780399619f7</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d1d255abdb01230016131780399619f8</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:45</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">19d255abdb01230016131780399619f7</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d9d255abdb01230016131780399619f7</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:45</sys_updated_on>
+                                <value>7db0f7d6ff0302001e68ffffffffffbb</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_title</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">19d255abdb01230016131780399619f7</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d9d255abdb01230016131780399619f9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_align</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">19d255abdb01230016131780399619f7</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>ddd255abdb01230016131780399619f8</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>left</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone>dropzone4</dropzone>
+                        <offset>0</offset>
+                        <page display_value="PA New Tab">d5d2956bdb0123001613178039961968</page>
+                        <summary/>
+                        <sys_created_by>mcaggiano@live.com</sys_created_by>
+                        <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                        <sys_id>d9d255abdb01230016131780399619e0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                        <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">55d2956bdb0123001613178039961969</grid_canvas>
+                                <height>17</height>
+                                <portal_widget display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619e0</portal_widget>
+                                <posx>0</posx>
+                                <posy>38</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:36</sys_created_on>
+                                <sys_id>add295abdb012300161317803996191d</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_name>55d2956bdb0123001613178039961969</sys_name>
+                                <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_add295abdb012300161317803996191d</sys_update_name>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:36</sys_updated_on>
+                                <width>6</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_title</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619e0</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>11d255abdb01230016131780399619e2</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>widget_height</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619e0</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>15d255abdb01230016131780399619e1</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>500</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_border</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619e0</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>19d255abdb01230016131780399619e2</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>publisher_widget</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619e0</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>51d255abdb01230016131780399619e1</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value/>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_size</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619e0</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>5dd255abdb01230016131780399619e1</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>12pt</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619e0</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>99d255abdb01230016131780399619e1</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>subscriber_widget</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619e0</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>9dd255abdb01230016131780399619e0</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619e0</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>9dd255abdb01230016131780399619e2</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>Open Changes - Grouped</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619e0</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d1d255abdb01230016131780399619e2</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:39</sys_updated_on>
+                                <value>b184d756ff0302001e68ffffffffff79</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619e0</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d5d255abdb01230016131780399619e1</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:39</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_align</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619e0</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d9d255abdb01230016131780399619e2</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>left</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone>dropzone5</dropzone>
+                        <offset>0</offset>
+                        <page display_value="PA New Tab">d5d2956bdb0123001613178039961968</page>
+                        <summary/>
+                        <sys_created_by>mcaggiano@live.com</sys_created_by>
+                        <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                        <sys_id>9dd255abdb01230016131780399619ee</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                        <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">55d2956bdb0123001613178039961969</grid_canvas>
+                                <height>17</height>
+                                <portal_widget display_value="Created 2018-10-15 10:39:35 AM">9dd255abdb01230016131780399619ee</portal_widget>
+                                <posx>6</posx>
+                                <posy>89</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:36</sys_created_on>
+                                <sys_id>e1d295abdb0123001613178039961922</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_name>55d2956bdb0123001613178039961969</sys_name>
+                                <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_e1d295abdb0123001613178039961922</sys_update_name>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:36</sys_updated_on>
+                                <width>6</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>publisher_widget</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">9dd255abdb01230016131780399619ee</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>15d255abdb01230016131780399619ef</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value/>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_title</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">9dd255abdb01230016131780399619ee</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>19d255abdb01230016131780399619f0</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_border</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">9dd255abdb01230016131780399619ee</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>1dd255abdb01230016131780399619ef</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_size</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">9dd255abdb01230016131780399619ee</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>51d255abdb01230016131780399619ef</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>12pt</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>subscriber_widget</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">9dd255abdb01230016131780399619ee</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>51d255abdb01230016131780399619f1</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>widget_height</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">9dd255abdb01230016131780399619ee</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>55d255abdb01230016131780399619f0</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>500</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">9dd255abdb01230016131780399619ee</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>91d255abdb01230016131780399619f0</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>Upcoming Changes (30 days) - Grouped</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">9dd255abdb01230016131780399619ee</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>9dd255abdb01230016131780399619f0</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">9dd255abdb01230016131780399619ee</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d5d255abdb01230016131780399619ef</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:39</sys_updated_on>
+                                <value>a3199f56ff0302001e68ffffffffffcb</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_align</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">9dd255abdb01230016131780399619ee</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d9d255abdb01230016131780399619f0</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>left</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">9dd255abdb01230016131780399619ee</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>ddd255abdb01230016131780399619ef</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:39</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone>dropzone3</dropzone>
+                        <offset>1</offset>
+                        <page display_value="PA New Tab">d5d2956bdb0123001613178039961968</page>
+                        <summary/>
+                        <sys_created_by>mcaggiano@live.com</sys_created_by>
+                        <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                        <sys_id>d5d255abdb01230016131780399619f4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                        <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">55d2956bdb0123001613178039961969</grid_canvas>
+                                <height>3</height>
+                                <portal_widget display_value="Created 2018-10-15 10:39:35 AM">d5d255abdb01230016131780399619f4</portal_widget>
+                                <posx>8</posx>
+                                <posy>15</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>e5d295abdb012300161317803996191c</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_name>55d2956bdb0123001613178039961969</sys_name>
+                                <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_e5d295abdb012300161317803996191c</sys_update_name>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <width>4</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d5d255abdb01230016131780399619f4</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>11d255abdb01230016131780399619f5</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:38</sys_updated_on>
+                                <value>a3e5ed77eb2302001e68286b1206fe51</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_align</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d5d255abdb01230016131780399619f4</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>11d255abdb01230016131780399619f7</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>center</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>current_page</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d5d255abdb01230016131780399619f4</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>15d255abdb01230016131780399619f6</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>099d0b16ff0302001e68ffffffffffb3</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>widget_height</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d5d255abdb01230016131780399619f4</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>19d255abdb01230016131780399619f5</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value/>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d5d255abdb01230016131780399619f4</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>51d255abdb01230016131780399619f6</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>publisher_widget</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d5d255abdb01230016131780399619f4</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>55d255abdb01230016131780399619f5</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value/>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d5d255abdb01230016131780399619f4</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>5dd255abdb01230016131780399619f4</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>Changes Awaiting Approval</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>filter_indicator</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d5d255abdb01230016131780399619f4</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>5dd255abdb01230016131780399619f6</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>help_text_window</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d5d255abdb01230016131780399619f4</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>99d255abdb01230016131780399619f4</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>gauge_widget_description</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>subscriber_widget</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d5d255abdb01230016131780399619f4</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>99d255abdb01230016131780399619f6</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_size</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d5d255abdb01230016131780399619f4</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>9dd255abdb01230016131780399619f5</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>12pt</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_border</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d5d255abdb01230016131780399619f4</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d1d255abdb01230016131780399619f7</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d5d255abdb01230016131780399619f4</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d5d255abdb01230016131780399619f6</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:38</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_title</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d5d255abdb01230016131780399619f4</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d9d255abdb01230016131780399619f5</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone>dropzone2</dropzone>
+                        <offset>1</offset>
+                        <page display_value="PA New Tab">d5d2956bdb0123001613178039961968</page>
+                        <summary/>
+                        <sys_created_by>mcaggiano@live.com</sys_created_by>
+                        <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                        <sys_id>d1d255abdb01230016131780399619de</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                        <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">55d2956bdb0123001613178039961969</grid_canvas>
+                                <height>3</height>
+                                <portal_widget display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619de</portal_widget>
+                                <posx>4</posx>
+                                <posy>9</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>e9d295abdb0123001613178039961900</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_name>55d2956bdb0123001613178039961969</sys_name>
+                                <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_e9d295abdb0123001613178039961900</sys_update_name>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <width>4</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_align</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619de</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>11d255abdb01230016131780399619e0</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>center</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619de</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>19d255abdb01230016131780399619df</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:38</sys_updated_on>
+                                <value>e4711356ff0302001e68fffffffffff0</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619de</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>1dd255abdb01230016131780399619de</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:38</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_title</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619de</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>55d255abdb01230016131780399619df</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>publisher_widget</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619de</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>59d255abdb01230016131780399619de</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value/>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_border</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619de</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>5dd255abdb01230016131780399619df</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>subscriber_widget</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619de</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>91d255abdb01230016131780399619df</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>widget_height</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619de</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>95d255abdb01230016131780399619de</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value/>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_size</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619de</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>95d255abdb01230016131780399619e0</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>12pt</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619de</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>d1d255abdb01230016131780399619e0</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>Changes On Hold</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619de</portal_section>
+                                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                                <sys_id>ddd255abdb01230016131780399619de</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">55d2956bdb0123001613178039961969</grid_canvas>
+                <height>3</height>
+                <portal_widget display_value="Created 2018-10-15 10:39:35 AM">5dd255abdb01230016131780399619eb</portal_widget>
+                <posx>0</posx>
+                <posy>0</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                <sys_id>2dd255abdb01230016131780399619fb</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>55d2956bdb0123001613178039961969</sys_name>
+                <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_2dd255abdb01230016131780399619fb</sys_update_name>
+                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                <width>4</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">55d2956bdb0123001613178039961969</grid_canvas>
+                <height>17</height>
+                <portal_widget display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619e3</portal_widget>
+                <posx>0</posx>
+                <posy>72</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                <sys_created_on>2018-10-15 14:39:36</sys_created_on>
+                <sys_id>2dd295abdb0123001613178039961920</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>55d2956bdb0123001613178039961969</sys_name>
+                <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_2dd295abdb0123001613178039961920</sys_update_name>
+                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                <sys_updated_on>2018-10-15 14:39:36</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">55d2956bdb0123001613178039961969</grid_canvas>
+                <height>17</height>
+                <portal_widget display_value="Created 2018-10-15 10:39:35 AM">95d255abdb01230016131780399619f1</portal_widget>
+                <posx>6</posx>
+                <posy>123</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                <sys_created_on>2018-10-15 14:39:36</sys_created_on>
+                <sys_id>61d295abdb0123001613178039961925</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>55d2956bdb0123001613178039961969</sys_name>
+                <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_61d295abdb0123001613178039961925</sys_update_name>
+                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                <sys_updated_on>2018-10-15 14:39:36</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">55d2956bdb0123001613178039961969</grid_canvas>
+                <height>17</height>
+                <portal_widget display_value="Created 2018-10-15 10:39:35 AM">55d255abdb01230016131780399619d8</portal_widget>
+                <posx>0</posx>
+                <posy>55</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                <sys_created_on>2018-10-15 14:39:36</sys_created_on>
+                <sys_id>65d295abdb012300161317803996191f</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>55d2956bdb0123001613178039961969</sys_name>
+                <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_65d295abdb012300161317803996191f</sys_update_name>
+                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                <sys_updated_on>2018-10-15 14:39:36</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">55d2956bdb0123001613178039961969</grid_canvas>
+                <height>3</height>
+                <portal_widget display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619db</portal_widget>
+                <posx>0</posx>
+                <posy>3</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                <sys_id>6dd255abdb01230016131780399619fd</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>55d2956bdb0123001613178039961969</sys_name>
+                <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_6dd255abdb01230016131780399619fd</sys_update_name>
+                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                <width>4</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">55d2956bdb0123001613178039961969</grid_canvas>
+                <height>3</height>
+                <portal_widget display_value="Created 2018-10-15 10:39:35 AM">1dd255abdb01230016131780399619e8</portal_widget>
+                <posx>8</posx>
+                <posy>12</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                <sys_id>a1d295abdb0123001613178039961902</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>55d2956bdb0123001613178039961969</sys_name>
+                <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_a1d295abdb0123001613178039961902</sys_update_name>
+                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                <width>4</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">55d2956bdb0123001613178039961969</grid_canvas>
+                <height>17</height>
+                <portal_widget display_value="Created 2018-10-15 10:39:35 AM">19d255abdb01230016131780399619f7</portal_widget>
+                <posx>6</posx>
+                <posy>106</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                <sys_created_on>2018-10-15 14:39:36</sys_created_on>
+                <sys_id>a9d295abdb0123001613178039961923</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>55d2956bdb0123001613178039961969</sys_name>
+                <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_a9d295abdb0123001613178039961923</sys_update_name>
+                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                <sys_updated_on>2018-10-15 14:39:36</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">55d2956bdb0123001613178039961969</grid_canvas>
+                <height>17</height>
+                <portal_widget display_value="Created 2018-10-15 10:39:35 AM">d9d255abdb01230016131780399619e0</portal_widget>
+                <posx>0</posx>
+                <posy>38</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                <sys_created_on>2018-10-15 14:39:36</sys_created_on>
+                <sys_id>add295abdb012300161317803996191d</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>55d2956bdb0123001613178039961969</sys_name>
+                <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_add295abdb012300161317803996191d</sys_update_name>
+                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                <sys_updated_on>2018-10-15 14:39:36</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">55d2956bdb0123001613178039961969</grid_canvas>
+                <height>17</height>
+                <portal_widget display_value="Created 2018-10-15 10:39:35 AM">9dd255abdb01230016131780399619ee</portal_widget>
+                <posx>6</posx>
+                <posy>89</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                <sys_created_on>2018-10-15 14:39:36</sys_created_on>
+                <sys_id>e1d295abdb0123001613178039961922</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>55d2956bdb0123001613178039961969</sys_name>
+                <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_e1d295abdb0123001613178039961922</sys_update_name>
+                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                <sys_updated_on>2018-10-15 14:39:36</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">55d2956bdb0123001613178039961969</grid_canvas>
+                <height>3</height>
+                <portal_widget display_value="Created 2018-10-15 10:39:35 AM">d5d255abdb01230016131780399619f4</portal_widget>
+                <posx>8</posx>
+                <posy>15</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                <sys_id>e5d295abdb012300161317803996191c</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>55d2956bdb0123001613178039961969</sys_name>
+                <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_e5d295abdb012300161317803996191c</sys_update_name>
+                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                <width>4</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">55d2956bdb0123001613178039961969</grid_canvas>
+                <height>3</height>
+                <portal_widget display_value="Created 2018-10-15 10:39:35 AM">d1d255abdb01230016131780399619de</portal_widget>
+                <posx>4</posx>
+                <posy>9</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>mcaggiano@live.com</sys_created_by>
+                <sys_created_on>2018-10-15 14:39:35</sys_created_on>
+                <sys_id>e9d295abdb0123001613178039961900</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>55d2956bdb0123001613178039961969</sys_name>
+                <sys_package display_value="DataCenter Access" source="x_195030_datacente">23e576c3db1023001613178039961974</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="DataCenter Access">23e576c3db1023001613178039961974</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_e9d295abdb0123001613178039961900</sys_update_name>
+                <sys_updated_by>mcaggiano@live.com</sys_updated_by>
+                <sys_updated_on>2018-10-15 14:39:35</sys_updated_on>
+                <width>4</width>
+            </sys_grid_canvas_pane>
+        </related_items_node>
+    </sys_grid_canvas>
+</record_update>

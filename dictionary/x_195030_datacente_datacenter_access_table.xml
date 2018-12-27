@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="DataCenter Access" max_length="40" name="x_195030_datacente_datacenter_access_table" sizeclass="49" type="collection">
+        <element display="true" label="Scheduled Time" mandatory="true" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
+        <element label="New Time" max_length="40" name="u_glide_time_2" type="glide_time"/>
+    </element>
+</database>
